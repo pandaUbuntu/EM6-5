@@ -4,3 +4,4 @@ Fulgrim
 Perturabo
 Angron
 Magnus
+Horus Lupercal
