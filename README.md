@@ -3,3 +3,4 @@ Conrad Curz
 Fulgrim
 Perturabo
 Angron
+Magnus
